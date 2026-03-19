@@ -1,7 +1,7 @@
-# 🛡️ Webcam Security Awareness Demo
+# Webcam Security Awareness Demo
 
 <div align="center">
-  <h3>🚨 Stealth Webcam Access Without User Permission</h3>
+  <h3>Stealth Webcam Access Without User Permission</h3>
   <p><strong>Ethical Hacking Practice | Information Security Assignment</strong></p>
   
   <p>
@@ -16,24 +16,24 @@
 
 ---
 
-## 📋 Table of Contents
-- [👥 Team Information](#-team-information)
-- [📌 Project Overview](#-project-overview)
-- [🎯 Objectives](#-objectives)
-- [✨ Features](#-features)
-- [🛠️ Technologies Used](#️-technologies-used)
-- [📁 Project Structure](#-project-structure)
-- [⚙️ Setup Instructions](#️-setup-instructions)
-- [🔐 Environment Variables](#-environment-variables)
-- [🚀 How It Works](#-how-it-works)
-- [📦 Installation](#-installation)
-- [🎮 Usage Guide](#-usage-guide)
-- [⚠️ Security Implications](#️-security-implications)
-- [🛡️ How to Protect Yourself](#️-how-to-protect-yourself)
-- [📊 Phases of Project](#-phases-of-project)
-- [🎓 Educational Purpose](#-educational-purpose)
-- [📝 License](#-license)
-- [📧 Contact](#-contact)
+##  Table of Contents
+- [ Team Information](#-team-information)
+- [ Project Overview](#-project-overview)
+- [ Objectives](#-objectives)
+- [ Features](#-features)
+- [ Technologies Used](-technologies-used)
+- [ Project Structure](#-project-structure)
+- [ Setup Instructions](-setup-instructions)
+- [ Environment Variables](#-environment-variables)
+- [ How It Works](#-how-it-works)
+- [ Installation](#-installation)
+- [ Usage Guide](#-usage-guide)
+- [ Security Implications](-security-implications)
+- [ How to Protect Yourself](-how-to-protect-yourself)
+- [ Phases of Project](#-phases-of-project)
+- [ Educational Purpose](#-educational-purpose)
+- [ License](#-license)
+- [ Contact](#-contact)
 
 ---
 
