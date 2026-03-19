@@ -80,7 +80,7 @@ webcam-security-demo
 
 ├──  package.json # Dependencies and scripts
 
-├── 📄 README.md # Project documentation
+├──  README.md # Project documentation
 
 ---
 
