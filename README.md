@@ -5,8 +5,6 @@
   <p><strong>Ethical Hacking Practice | Information Security Assignment</strong></p>
 </div>
 
----
-
 ##  Table of Contents
 - [ Team Information](#-team-information)
 - [ Project Overview](#-project-overview)
