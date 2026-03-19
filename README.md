@@ -5,27 +5,6 @@
   <p><strong>Ethical Hacking Practice | Information Security Assignment</strong></p>
 </div>
 
-##  Table of Contents
-- [ Team Information](#-team-information)
-- [ Project Overview](#-project-overview)
-- [ Objectives](#-objectives)
-- [ Features](#-features)
-- [ Technologies Used](-technologies-used)
-- [ Project Structure](#-project-structure)
-- [ Setup Instructions](-setup-instructions)
-- [ Environment Variables](#-environment-variables)
-- [ How It Works](#-how-it-works)
-- [ Installation](#-installation)
-- [ Usage Guide](#-usage-guide)
-- [ Security Implications](-security-implications)
-- [ How to Protect Yourself](-how-to-protect-yourself)
-- [ Phases of Project](#-phases-of-project)
-- [ Educational Purpose](#-educational-purpose)
-- [ License](#-license)
-- [ Contact](#-contact)
-
----
-
 ##  Team Information
 
 | **Group Name** | Cyber Defender |
