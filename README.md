@@ -70,6 +70,7 @@ This project demonstrates a critical security vulnerability in modern web browse
 
 ##  Project Structure
 webcam-security-demo
+
 ├──  server.js # Backend server (Node.js/Express)
 
 ├──  script.js # Frontend JavaScript logic
